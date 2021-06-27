@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(218, 218, 218);
+}
+
+#name {
+ text-align: center;
+}
+
+#tag-line {
+    text-align: center;
+}
+
+#img-div {
+    background-color: white;
+    padding: 5px 20px 5px 20px;
+    margin: 20px;
+}
+
+#image {
+    display: block;
+    max-width: 220px;
+    margin: 0 auto;
+}
+
+#img-caption {
+    padding: 10px;
+    text-align: center;
+}
+
+#tribute-info {
+    display: block;
+    margin: 0 auto;
+    max-width: 550px;
+    text-align: center;
+}
