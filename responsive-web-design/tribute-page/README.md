@@ -1,4 +1,4 @@
-Link: https://toodely.github.io/freecodecamp-projects/tribute-page/index.html
+Link: https://toodely.github.io/freecodecamp-projects/responsive-web-design/tribute-page/index.html
 
 --
 

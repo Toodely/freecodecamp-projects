@@ -1,4 +1,4 @@
-Link: https://toodely.github.io/freecodecamp-projects/survey-form/index.html
+Link: https://toodely.github.io/freecodecamp-projects/responsive-web-design/survey-form/index.html
 
 --
 

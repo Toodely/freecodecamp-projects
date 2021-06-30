@@ -1,4 +1,4 @@
-Link: https://toodely.github.io/freecodecamp-projects/product-landing-page/index.html
+Link: https://toodely.github.io/freecodecamp-projects/responsive-web-design/product-landing-page/index.html
 
 --
 
