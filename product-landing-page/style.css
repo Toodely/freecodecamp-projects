@@ -8,6 +8,12 @@
     align-items: center;
 }
 
+@media (max-width: 600px) {
+header {
+    flex-wrap: wrap;
+}
+}
+
 .logo {
     width: 60vw;
 }
@@ -49,4 +55,23 @@
     display: flex;
     justify-content: center;
     margin-top: 120px;
+}
+
+#sign-up {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.form-section {
+    display: flex;
+    justify-content:center;
+    margin: auto;
+    padding: 0.25rem;
+}
+
+#pricing {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
 }

@@ -4,29 +4,45 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body> 
-        <header id="header">
+        <header class="header" id="header">
             <div class="logo">
             <img id="header-img" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Coca-Cola_logo.svg" alt="Company Logo">
             </div>
             <nav id="nav-bar">
                 <ul>
                     <li>
-                <a class="nav-link" href="#">Features</a>
+                <a class="nav-link" href="#video">Video</a>
                     </li>
                     <li>
-                <a class="nav-link" href="#">How it Works</a>
+                <a class="nav-link" href="#sign-up">Sign Up</a>
                     </li>
                     <li>
-                <a class="nav-link" href="#">Pricing</a>
+                <a class="nav-link" href="#pricing">Pricing</a>
                     </li>
                 </ul>
             </nav>
         </header>
         <div id="main-container">
             <div id="video-container">
-                <iframe id="video" width="420" height="315"
+                <iframe id="video"
                 src="https://www.youtube.com/watch?v=yg4Mq5EAEzw">
                 </iframe> 
+            </div>
+            <div id="sign-up">
+                <form id="form" action="https://www.freecodecamp.com/email-submit">
+                    <div class="form-section">
+                        <h2>Sign up to hear more</h2>
+                    </div>
+                    <div class="form-section"> 
+                        <input type="email" id="email" class="form-input" name="email" placeholder="Enter your Email" required="true">
+                    </div>
+                    <div class="form-section">
+                        <input type="submit" id="submit">
+                    </div>
+                 </form>
+            </div>
+            <div id="pricing">   
+
             </div>
         </div>
         <footer>
