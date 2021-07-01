@@ -1,3 +1,7 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #header {
     position: fixed;
     top: 0;
@@ -6,6 +10,9 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: white;
+    border-bottom: solid black;
+    border-width: 1px;
 }
 
 @media (max-width: 600px) {
@@ -13,6 +20,8 @@ header {
     flex-wrap: wrap;
 }
 }
+
+
 
 .logo {
     width: 60vw;
@@ -54,7 +63,12 @@ header {
 #video-container {
     display: flex;
     justify-content: center;
-    margin-top: 120px;
+    margin-top: 140px;
+}
+
+#video {
+    width: 600px;
+    height: 400px;
 }
 
 #sign-up {
