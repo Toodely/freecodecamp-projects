@@ -9,3 +9,5 @@ Responsive Web Design Projects
 3. Build a Product Landing Page: https://toodely.github.io/freecodecamp-projects/responsive-web-design/product-landing-page/index.html
 
 4. Build a Technical Documentation Page: https://toodely.github.io/freecodecamp-projects/responsive-web-design/technical-documentation-page/index.html
+
+5. Build a Personal Portfolio Webpage: https://toodely.github.io/freecodecamp-projects/responsive-web-design/personal-portfolio-webpage/index.html
